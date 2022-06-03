@@ -1,0 +1,49 @@
+﻿@model ObligatorioP3.EntidadesNegocio.Planta;
+
+@{
+    ViewData["Title"] = "Búsqueda por Altura alta";
+}
+
+
+@if (ViewBag.MensajeError != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.MensajeError
+    </div>
+}
+
+@if (ViewBag.ok != null)
+{
+    <div class="alert alert-success" role="alert">
+        @ViewBag.ok
+    </div>
+}
+
+
+<h1>Búsqueda por Altura de Planta</h1>
+<br />
+<p><strong>Inserte una altura y se desplegarán todas las plantas de mayor o igual medida</strong></p>
+<hr />
+
+<form id="formulario" action="/Planta/BusquedaSegunAlturaAlta" method="post">
+
+    <div class="mb-3">
+        <label for="f2" class="form-label">Altura de la planta</label>
+        <input type="number" class="form-control" id="altura" name="altura" value="@ViewBag.Altura" placeholder="Ingrese la altura en centímetros" required>
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    </div>
+
+</form>
+<br />
+
+<div>
+    <a asp-action="BusquedaSegunAlturaBaja">Búsqueda por Altura Baja</a>
+</div>
+<br />
+
+<div>
+    <a asp-action="Index">Volver al Listado</a>
+</div>

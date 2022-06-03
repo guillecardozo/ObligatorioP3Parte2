@@ -1,0 +1,48 @@
+﻿@using ObligatorioP3.EntidadesNegocio
+
+@{
+    ViewData["Title"] = "Búsqueda por Nombre";
+}
+
+
+<h1>Resultado de la búsqueda</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+
+            <th scope="col">Nombre Científico</th>
+            <th scope="col">Nombre Vulgar</th>
+            <th scope="col">Descripción</th>
+            <th scope="col">Tipo de Ambiente</th>
+            <th scope="col">Altura</th>
+            <th scope="col">Foto</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Planta item in @ViewBag.Listado)
+        {
+            <tr>
+
+                <td> @item.NombreCientifico</td>
+                <td>@item.NombreVulgar</td>
+                <td> @item.Descripcion</td>
+                <td> @item.TipoAmbiente</td>
+                <td> @item.Altura</td>
+                <td><img src="~/Img/@item.Foto" height="70" /></td>
+
+                <td>
+                    @Html.ActionLink("Ver más", "Details", new { id = item.Id }) <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-view-list" viewBox="0 0 16 16">
+                        <path d="M3 4.5h10a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2zm0 1a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1H3zM1 2a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13A.5.5 0 0 1 1 2zm0 12a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13A.5.5 0 0 1 1 14z" />
+                    </svg>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Index">Volver al Listado</a>
+</div>

@@ -1,0 +1,107 @@
+﻿@model WebMVC.Models.ViewModelPlanta
+
+@{
+    ViewData["Title"] = "Crear Planta";
+}
+
+@if (ViewBag.Error != null)
+{
+<div class="alert alert-danger" role="alert">
+    @ViewBag.Error
+</div>
+}
+
+
+<h1>Agregar Planta</h1>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form enctype="multipart/form-data" asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Planta.NombreCientifico" class="control-label"></label>
+                <input asp-for="Planta.NombreCientifico" class="form-control" required />
+                <span asp-validation-for="Planta.NombreCientifico" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Planta.NombreVulgar" class="control-label"></label>
+                <input asp-for="Planta.NombreVulgar" class="form-control" required />
+                <span asp-validation-for="Planta.NombreVulgar" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Planta.Descripcion" class="control-label"></label>
+                <textarea asp-for="Planta.Descripcion" class="form-control" rows="10" placeholder="Debe tener entre 10 y 200 caracteres"> </textarea>
+                <span asp-validation-for="Planta.Descripcion" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <p>Tipo de Ambiente</p>
+                <select name="ambiente" id="ambiente" class="col-10">
+
+                    <option value="Exterior">Exterior</option>
+                    <option value="Cerrado">Cerrado</option>
+                    <option value="Mixto">Mixto</option>
+
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Planta.Altura" class="control-label"></label>
+                <input asp-for="Planta.Altura" class="form-control" required />
+                <span asp-validation-for="Planta.Altura" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Foto: </label>
+                <input asp-for="Imagen" class="form-control" required />
+                <p>*Formatos admitidos jpg o png*</p>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Planta.Precio" class="control-label"></label>
+                <input asp-for="Planta.Precio" class="form-control" required />
+                <span asp-validation-for="Planta.Precio" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <p>Tipo de Planta:</p>
+                <select name="IdTipoPlantaSeleccionada" id="TodasLasPlantas" class="col-12">
+                    @foreach (ObligatorioP3.EntidadesNegocio.TipoPlanta tipoPlanta in Model.TipoPlanta)
+                    {
+                        <option value="@tipoPlanta.Id">@tipoPlanta.Nombre</option>
+                    }
+                </select>
+            </div>
+
+            <div class="form-group">
+                <p>Seleccione una Ficha:</p>
+                <select name="IdFichaCuidadoSeleccionada" id="TodasLasFichas" class="col-12">
+                    @foreach (ObligatorioP3.EntidadesNegocio.FichaCuidados ficha in Model.FichaCuidados)
+                    {
+                        <option value="@ficha.Id">Riego (@ficha.FrecuenciaRiego) - Iluminación (@ficha.TipoIluminacion) - Temperatura (@ficha.Temperatura Cº)</option>
+                    }
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <a href="/FichaCuidados/Create">Crear una nueva ficha</a>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver al Listado</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

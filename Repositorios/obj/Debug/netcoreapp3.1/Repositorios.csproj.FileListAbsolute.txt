@@ -1,0 +1,250 @@
+C:\Users\Juan Pablo\Source\Repos\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Juan Pablo\Source\Repos\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Juan Pablo\Source\Repos\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Juan Pablo\Source\Repos\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Juan Pablo\Source\Repos\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Juan Pablo\Source\Repos\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Source\Repos\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Source\Repos\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Source\Repos\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Juan Pablo\Source\Repos\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Source\Repos\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Juan Pablo\Source\Repos\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Juan Pablo\Source\Repos\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Downloads\19 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Cardozo\Downloads\19 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Downloads\19 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Downloads\19 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Cardozo\Downloads\19 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Cardozo\Downloads\19 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Cardozo\Downloads\19 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cardozo\Downloads\19 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Cardozo\Downloads\19 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Cardozo\Downloads\19 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Cardozo\Downloads\19 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Cardozo\Downloads\19 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Downloads\19 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Juan Pablo\Desktop\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Juan Pablo\Desktop\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Juan Pablo\Desktop\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Juan Pablo\Desktop\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Juan Pablo\Desktop\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Juan Pablo\Desktop\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Desktop\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Juan Pablo\Desktop\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Juan Pablo\Desktop\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Downloads\20 abril (1)\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Cardozo\Downloads\20 abril (1)\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Downloads\20 abril (1)\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Downloads\20 abril (1)\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Cardozo\Downloads\20 abril (1)\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Cardozo\Downloads\20 abril (1)\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Cardozo\Downloads\20 abril (1)\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cardozo\Downloads\20 abril (1)\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Cardozo\Downloads\20 abril (1)\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Cardozo\Downloads\20 abril (1)\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Cardozo\Downloads\20 abril (1)\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Cardozo\Downloads\20 abril (1)\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Downloads\20 abril (1)\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Juan Pablo\Desktop\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Juan Pablo\Desktop\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Juan Pablo\Desktop\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Juan Pablo\Desktop\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Juan Pablo\Desktop\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Juan Pablo\Desktop\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Desktop\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Juan Pablo\Desktop\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Juan Pablo\Desktop\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\alumnoFI\Desktop\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\alumnoFI\Desktop\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\alumnoFI\Desktop\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\alumnoFI\Desktop\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\alumnoFI\Desktop\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\alumnoFI\Desktop\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Desktop\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\alumnoFI\Desktop\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\alumnoFI\Desktop\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Downloads\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Cardozo\Downloads\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Downloads\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Downloads\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Cardozo\Downloads\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Cardozo\Downloads\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Cardozo\Downloads\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cardozo\Downloads\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Cardozo\Downloads\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Cardozo\Downloads\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Cardozo\Downloads\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Cardozo\Downloads\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Downloads\21 abril\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Cardozo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Cardozo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Cardozo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Cardozo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cardozo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Cardozo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Cardozo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Cardozo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Cardozo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Juan Pablo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Juan Pablo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Juan Pablo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Juan Pablo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Juan Pablo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Juan Pablo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Juan Pablo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Juan Pablo\Desktop\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Cardozo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Cardozo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Cardozo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Cardozo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cardozo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Cardozo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Cardozo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Cardozo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Cardozo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Juan Pablo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Juan Pablo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Juan Pablo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Juan Pablo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Juan Pablo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Juan Pablo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Juan Pablo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Juan Pablo\Desktop\22 abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Downloads\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Cardozo\Downloads\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Downloads\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Downloads\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Cardozo\Downloads\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Cardozo\Downloads\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Cardozo\Downloads\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cardozo\Downloads\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Cardozo\Downloads\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Cardozo\Downloads\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Cardozo\Downloads\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Cardozo\Downloads\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Downloads\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Juan Pablo\Desktop\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Juan Pablo\Desktop\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Juan Pablo\Desktop\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Juan Pablo\Desktop\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Juan Pablo\Desktop\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Juan Pablo\Desktop\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Desktop\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Juan Pablo\Desktop\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Juan Pablo\Desktop\23 Abril\21 abril copia\20 abril NOCHE\20 abril\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Downloads\24 abril tarde\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Cardozo\Downloads\24 abril tarde\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Downloads\24 abril tarde\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Downloads\24 abril tarde\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Cardozo\Downloads\24 abril tarde\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Cardozo\Downloads\24 abril tarde\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Cardozo\Downloads\24 abril tarde\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cardozo\Downloads\24 abril tarde\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Cardozo\Downloads\24 abril tarde\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Cardozo\Downloads\24 abril tarde\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Cardozo\Downloads\24 abril tarde\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Cardozo\Downloads\24 abril tarde\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Downloads\24 abril tarde\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Juan Pablo\Desktop\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Juan Pablo\Desktop\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Juan Pablo\Desktop\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Juan Pablo\Desktop\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Juan Pablo\Desktop\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Juan Pablo\Desktop\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Juan Pablo\Desktop\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Desktop\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Juan Pablo\Desktop\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Juan Pablo\Desktop\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Downloads\ObligatorioP3\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Cardozo\Downloads\ObligatorioP3\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Downloads\ObligatorioP3\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Downloads\ObligatorioP3\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Cardozo\Downloads\ObligatorioP3\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Cardozo\Downloads\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Cardozo\Downloads\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cardozo\Downloads\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Cardozo\Downloads\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Cardozo\Downloads\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Cardozo\Downloads\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Cardozo\Downloads\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Downloads\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Martín\Desktop\Obligatorio 1 P3 Cardozo, Gagliardi, Pereira\ObligatorioP3\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Martín\Desktop\Obligatorio 1 P3 Cardozo, Gagliardi, Pereira\ObligatorioP3\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Martín\Desktop\Obligatorio 1 P3 Cardozo, Gagliardi, Pereira\ObligatorioP3\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Martín\Desktop\Obligatorio 1 P3 Cardozo, Gagliardi, Pereira\ObligatorioP3\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Martín\Desktop\Obligatorio 1 P3 Cardozo, Gagliardi, Pereira\ObligatorioP3\ObligatorioP3\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Martín\Desktop\Obligatorio 1 P3 Cardozo, Gagliardi, Pereira\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Martín\Desktop\Obligatorio 1 P3 Cardozo, Gagliardi, Pereira\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martín\Desktop\Obligatorio 1 P3 Cardozo, Gagliardi, Pereira\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Martín\Desktop\Obligatorio 1 P3 Cardozo, Gagliardi, Pereira\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Martín\Desktop\Obligatorio 1 P3 Cardozo, Gagliardi, Pereira\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Martín\Desktop\Obligatorio 1 P3 Cardozo, Gagliardi, Pereira\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Martín\Desktop\Obligatorio 1 P3 Cardozo, Gagliardi, Pereira\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Martín\Desktop\Obligatorio 1 P3 Cardozo, Gagliardi, Pereira\ObligatorioP3\ObligatorioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Usuario\Source\Repos\ObligatorioP3Parte1\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Usuario\Source\Repos\ObligatorioP3Parte1\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Usuario\Source\Repos\ObligatorioP3Parte1\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Usuario\Source\Repos\ObligatorioP3Parte1\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Usuario\Source\Repos\ObligatorioP3Parte1\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Usuario\Source\Repos\ObligatorioP3Parte1\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\ObligatorioP3Parte1\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Source\Repos\ObligatorioP3Parte1\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\ObligatorioP3Parte1\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Usuario\Source\Repos\ObligatorioP3Parte1\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\ObligatorioP3Parte1\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Usuario\Source\Repos\ObligatorioP3Parte1\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Usuario\Source\Repos\ObligatorioP3Parte1\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.runtimeconfig.json
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.runtimeconfig.dev.json
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.dll
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\bin\Debug\netcoreapp3.1\ObligatorioP3.pdb
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Cardozo\Desktop\ATI\3 Semestre\Programacion 3\Obligatorio\ObligatorioP3Parte2\ObligatorioP3Parte2\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.genruntimeconfig.cache

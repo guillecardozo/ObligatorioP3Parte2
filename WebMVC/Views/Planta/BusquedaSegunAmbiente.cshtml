@@ -1,0 +1,46 @@
+﻿@model ObligatorioP3.EntidadesNegocio.Planta;
+
+@{
+    ViewData["Title"] = "Búsqueda por Ambiente";
+}
+
+
+@if (ViewBag.MensajeError != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.MensajeError
+    </div>
+}
+
+@if (ViewBag.ok != null)
+{
+    <div class="alert alert-success" role="alert">
+        @ViewBag.ok
+    </div>
+}
+
+
+<h1>Búsqueda por Tipo de Ambiente de Planta</h1>
+
+<form id="formulario" action="/Planta/BusquedaSegunAmbiente" method="post">
+    
+    <div class="form-group">
+        <label>Seleccionar un Tipo de Ambiente:</label>
+        <select name="ambiente" id="ambiente" class="col-12">
+
+            <option value="Exterior">Exterior</option>
+            <option value="Interior">Interior</option>
+            <option value="Mixta">Mixta</option>
+
+        </select>
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    </div>
+
+</form>
+
+<div>
+    <a asp-action="Index">Volver al Listado</a>
+</div>

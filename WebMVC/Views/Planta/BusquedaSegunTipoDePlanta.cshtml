@@ -1,0 +1,48 @@
+﻿@model ObligatorioP3.EntidadesNegocio.TipoPlanta;
+
+@{
+    ViewData["Title"] = "Búsqueda por Tipo de Planta";
+}
+
+
+@if (ViewBag.MensajeError != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.MensajeError
+    </div>
+}
+
+@if (ViewBag.ok != null)
+{
+    <div class="alert alert-success" role="alert">
+        @ViewBag.ok
+    </div>
+}
+
+
+<h1>Búsqueda por Tipo de Planta</h1>
+
+<form id="formulario" action="/Planta/BusquedaSegunTipoDePlanta" method="post">
+
+    <div class="form-group col-sm-9">
+        <label>Seleccione un tipo:</label>
+
+        <select name="id" id="id" class="col-8">
+
+            @foreach (ObligatorioP3.EntidadesNegocio.TipoPlanta item in @ViewBag.TiposDePlanta)
+            {
+                <option value="@item.Id">@item.Nombre</option>
+            }
+
+        </select>
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    </div>
+
+</form>
+
+<div>
+    <a asp-action="Index">Volver al Listado</a>
+</div>

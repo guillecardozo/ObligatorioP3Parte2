@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Búsqueda por Tipo Planta Nombre";
+}
+
+
+@if (ViewBag.MensajeError != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.MensajeError
+    </div>
+}
+
+
+<h1>Búsqueda por Nombre de Tipo de planta</h1>
+
+<form id="formulario" action="/TipoPlanta/BusquedaPorTipoNombre" method="post">
+
+    <div class="mb-3">
+        <label for="f2" class="form-label">Nombre de Tipo de Planta</label>
+        <input type="text" class="form-control" id="nombre" name="nombre" value="@ViewBag.Nombre" placeholder="Ingrese un nombre de Tipo de Planta" required>
+    </div>
+
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    </div>
+
+</form>
+
+<div>
+    <a asp-action="Index">Volver al Listado</a>
+</div>

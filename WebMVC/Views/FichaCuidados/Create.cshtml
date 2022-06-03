@@ -1,0 +1,58 @@
+﻿@model ObligatorioP3.EntidadesNegocio.FichaCuidados
+
+@{
+    ViewData["Title"] = "Crear Ficha de Cuidados";
+}
+
+
+@if (ViewBag.MensajeError != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.MensajeError
+    </div>
+}
+
+
+<h1>Agregar</h1>
+<h4>Ficha de Cuidados</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="FrecuenciaRiego" class="control-label"></label>
+                <input asp-for="FrecuenciaRiego" class="form-control" required />
+                <span asp-validation-for="FrecuenciaRiego" class="text-danger"></span>
+            </div>
+
+            <div class="form-group ">
+                <p>Seleccione una Categoría</p>
+                <select name="iluminacion" id="iluminacion" class="col-10" required>
+
+                    <option value="Luz solar directa">Luz Solar Directa</option>
+                    <option value="Luz solar indirecta">Luz Solar Indirecta</option>
+                    <option value="Sombra">Sombra</option>
+
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Temperatura" class="control-label"></label>
+                <input asp-for="Temperatura" class="form-control" required />
+                <span asp-validation-for="Temperatura" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Crear" class="btn btn-primary" />
+            </div>
+            
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Búsqueda por Nombre";
+}
+
+
+@if (ViewBag.MensajeError != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.MensajeError
+    </div>
+}
+
+
+<h1>Búsqueda por Nombre vulgar o científico</h1>
+
+<form id="formulario" action="/Planta/BusquedaPorNombre" method="post">
+
+    <div class="mb-3">
+        <label for="f2" class="form-label">Nombre de Planta</label>
+        <input type="text" class="form-control" id="nombre" name="nombre" value="@ViewBag.Nombre" placeholder="Ingrese un nombre vulgar o científico" required>
+    </div>
+
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Buscar</button>
+    </div>
+
+</form>
+
+<div>
+    <a asp-action="Index">Volver al Listado</a>
+</div>
