@@ -13,5 +13,8 @@ Los Requerimientos implementados son:
 - Creación de un Tipo de Planta
 - Eliminar un Tipo de Planta
 - Modificar la descripción de un Tipo de Planta
+- Listado de todos los Tipos de Plantas
 - Creación de una Ficha de Cuidados para la planta
 - Eliminar la Ficha de Cuidados
+
+**DESCARGAR EL PROYECTO Y EJECUTARLO PARA VER SU FUNCIONAMIENTO, 
