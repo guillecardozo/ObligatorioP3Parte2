@@ -17,4 +17,12 @@ Los Requerimientos implementados son:
 - Creación de una Ficha de Cuidados para la planta
 - Eliminar la Ficha de Cuidados
 
-**DESCARGAR EL PROYECTO Y EJECUTARLO PARA VER SU FUNCIONAMIENTO, 
+**PASOS PARA VER LA APLICACIÓN:
+- Descargar el Proyecto
+- En el menú, ir a Herramientas > Administrador de Paquetes NuGet > Consola del Administrador de paquetes
+- En "Proyecto Predeterminado" seleccionar Repositorios
+- Escribir el siguiente comando: add-migration init
+- Una vez terminado, escribir el comando update-database init (Esto creará la base de datos con nombre ObligatorioP3Parte2 en SQL Server)
+- Luego podemos ejecutar la aplicación desde Visual Studio
+- Al ejecutar la aplicación, primero debemos precargar Usuarios, clickeando en el botón de "Precagar usuarios"
+- Luego podemos loguearnos con usuario: guille@usuario.com y contraseña guille123
